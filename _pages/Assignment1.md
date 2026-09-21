@@ -1,6 +1,6 @@
 ---
-permalink: /Assignment-1/
-title: "Assignment 1"
+permalink: /A1/
+title: "A1"
 ---
 
 My 1st assignment!
