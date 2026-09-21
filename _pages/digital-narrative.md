@@ -7,7 +7,7 @@ title: "Digital Narrative"
 <h1> ChatGPT <h1>
 
 <p>
-As a 19 year old Interactive Media student with minors in Film and New Media and Design, I think digital literacy is something I use every day without always thinking of it as a skill. I already know how to use tools like Google Drive, Canva, Adobe programs, p5.js, GitHub, and social media, but I am realizing that knowing how to use a tool is not the same as understanding how it affects the way I create and communicate.
+As a 19 year old Interactive Media student with minors in Film and New Media and Design, I think digital literacy is something I use every day without always thinking of it as a skill. I already know how to use tools like Google Drive, Canva, Adobe programs, p5.js, GitHub, and social media, but I am realizing that knowing how to use a tool is not the same as understanding how it affects the way I create and communicate
 <p>
 
 <p>
