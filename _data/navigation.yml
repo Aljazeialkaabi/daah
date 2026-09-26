@@ -1,13 +1,18 @@
 main:
   - title: "Tags"
     url: /tags/
+
   - title: "About"
     url: /about/
+
   - title: "A1"
     url: /A1/
+
   - title: "A2"
     url: /A2/
+
   - title: "A3"
     url: /A3/
+    
   - title: "Digital Narrative"
     url: /digital-narrative/

@@ -1,5 +1,5 @@
 ---
-permalink: /A1/
+permalink: /a1/
 title: "A1"
 ---
 
