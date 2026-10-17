@@ -4,7 +4,7 @@ title: "Extra Credit"
 permalink: /extra-credit/
 ---
 
-# Extra Credit Assignments
+
 
 This page contains my extra credit assignments for Digital Humanities.
 
