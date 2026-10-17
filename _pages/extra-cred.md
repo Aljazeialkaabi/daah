@@ -16,4 +16,6 @@ On September 25, 2026, I attended an online workshop introducing R and RStudio.
 
 ## Extra Credit 2
 
+On October 7, 2026, I attended an online workshop called Breaking Up with Google Docs
+
 [Read Extra Credit 2 →]({{ '/extra-credit-2/' | relative_url }})
