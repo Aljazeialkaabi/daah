@@ -1,5 +1,19 @@
 ---
 layout: single
-title: "Introduction to R and RStudio"
+title: "Extra Credit"
 permalink: /extra-credit/
 ---
+
+# Extra Credit Assignments
+
+This page contains my extra credit assignments for Digital Humanities.
+
+## Extra Credit 1 — Introduction to R and RStudio
+
+On September 25, 2026, I attended an online workshop introducing R and RStudio.
+
+[Read Extra Credit 1 →]({{ '/extra-credit-1/' | relative_url }})
+
+## Extra Credit 2
+
+[Read Extra Credit 2 →]({{ '/extra-credit-2/' | relative_url }})
