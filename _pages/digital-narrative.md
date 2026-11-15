@@ -4,7 +4,6 @@ title: "Digital Narrative"
 ---
 
 
-# Digital Literacy Narrative
 
 ## Introduction
 
