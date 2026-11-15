@@ -3,7 +3,6 @@ permalink: /digital-narrative/
 title: "Digital Narrative"
 ---
 
-<h1>ChatGPT</h1>
 
 <p>
 As a 19 year old Interactive Media student with minors in Film and New Media and Design, I think digital literacy is something I use every day without always thinking of it as a skill. I already know how to use tools like Google Drive, Canva, Adobe programs, p5.js, GitHub, and social media, but I am realizing that knowing how to use a tool is not the same as understanding how it affects the way I create and communicate.
@@ -34,9 +33,6 @@ Overall, I think my digital literacy is strongest when I am creating, experiment
 </p>
 
 
-
-<h1>Gemini</h1>
-
 <p>
 As a nineteen-year-old university student majoring in Interactive Media with minors in Film and New Media and Design, my relationship with technology is less about learning tools and more about navigating an environment I have always inhabited. For my generation, digital literacy is often framed as an innate fluency, but moving through an academic space has revealed that being a digital native does not automatically make one digitally literate. There is a vast divide between consuming digital culture and critically dissecting, manipulating, or building the systems that power it.
 </p>
@@ -57,7 +53,6 @@ Reflecting on my current abilities, I feel confident in visual composition, UI/U
 Looking ahead, I want to explore ways of thinking that treat AI not as a shortcut, but as a medium to be critiqued and repurposed. I am eager to delve deeper into ethics in data visualization, algorithmic bias, and physical computing, exploring how code escapes the screen to interact with tangible space. True digital literacy requires moving beyond operational skill to cultivate a critical, creative, and ethical orientation toward technology. By combining interactive design, media theory, and computational inquiry, I hope to build digital experiences that are not only functional and visually engaging, but deeply reflective of the human context behind the data.
 </p>
 
-<h1>Claude</h1>
 
 <p>
 I came into this course assuming "digital literacy" meant something close to what I already had. I've been editing video since I was fourteen, I can find my way around Figma and Premiere without thinking about it, and I post across three or four platforms without much friction. What this class has actually shown me is that fluency with tools is only the surface layer. Real digital literacy is about understanding the systems underneath the tools: how platforms shape what gets seen, how data gets collected and structured, how algorithms make decisions I don't get to watch happen, and how all of that intersects with the stories I'm trying to tell as someone majoring in Interactive Media with minors in Film and New Media and Design.
