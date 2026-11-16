@@ -4,6 +4,17 @@ title: "Extra Credit"
 permalink: /extra-credit/
 ---
 
+<style>
+  body {
+    background-color: #FFF9DB !important;
+  }
+  .masthead {
+    background-color: #FFF9DB;
+  }
+  .greedy-nav {
+    background-color: #FFF9DB;
+  }
+</style>
 
 
 This page contains my extra credit assignments for Digital Humanities.

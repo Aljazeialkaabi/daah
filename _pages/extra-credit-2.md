@@ -4,7 +4,17 @@ title: "Breaking Up with Google Docs"
 permalink: /extra-credit-2/
 ---
 
-
+<style>
+  body {
+    background-color: #FFF9DB !important;
+  }
+  .masthead {
+    background-color: #FFF9DB;
+  }
+  .greedy-nav {
+    background-color: #FFF9DB;
+  }
+</style>
 
 ## Introduction
 
