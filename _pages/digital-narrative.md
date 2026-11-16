@@ -2,7 +2,17 @@
 permalink: /digital-narrative/
 title: "Digital Narrative"
 ---
-
+<style>
+  body {
+    background-color: #EAF6FF !important;
+  }
+  .masthead {
+    background-color: #EAF6FF;
+  }
+  .greedy-nav {
+    background-color: #EAF6FF;
+  }
+</style>
 
 
 ## Introduction
