@@ -2,8 +2,17 @@
 permalink: /about/
 title: "About"
 ---
-
-# About Me
+<style>
+  body {
+    background-color: #FFF0F5 !important;
+  }
+  .masthead {
+    background-color: #FFF0F5;
+  }
+  .greedy-nav {
+    background-color: #FFF0F5;
+  }
+</style>
 
 Hi! I'm Aljazei, a second-year student at NYU Abu Dhabi, majoring in **Interactive Media** with minors in **Film and New Media** and **Design**.
 
